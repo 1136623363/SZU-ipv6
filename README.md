@@ -41,4 +41,4 @@
 ### 保存应用
 ## 7. 重启路由器
 ### 可以在[https://test-ipv6.com/](https://test-ipv6.com/)测试ipv6是否可以正常使用
-![输入图片说明](/jpg/13.jpg)
+![输入图片说明](/jpg/14.jpg)
